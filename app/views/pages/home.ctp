@@ -1,0 +1,1 @@
+<p>To register a performance, click on <a href="/archive/festival/performances/add">Register Performance</a>. For any questions please email <a href="mailto:kaltmeyer@pds.org?subject=Performing%20Arts%20Festival">kaltmeyer@pds.org</a>.</p>

@@ -1,0 +1,48 @@
+header {
+	padding: 10px;
+	font-size: 40px;
+}
+
+nav {
+	padding: 8px;
+	background-color: #d4d4d4;
+}
+
+nav a {
+	padding-right: 20px;
+	padding-left: 20px;
+}
+footer {
+	color: white;
+	padding-bottom: 50px;
+	font-size: 11px;
+	text-align: center;
+	
+}
+
+footer a {
+	color: white;
+}
+
+.content {
+	padding: 10px;
+	margin: 10px;
+	color: #003d4c;
+	background-color: white;
+}
+
+p {
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-right: 60px;
+	padding-left: 20px;
+}
+
+.splash {
+	margin-bottom: 50px;
+	margin-top: 50px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 500px;
+	text-align: center;
+}

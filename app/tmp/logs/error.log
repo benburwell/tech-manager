@@ -1,0 +1,4 @@
+2011-07-04 23:39:10 Warning: Warning (2): require(cake/libs/model/model.php) [http://php.net/function.require]: failed to open stream: No such file or directory in [/Users/sadmin/Dropbox/Sites/festival/cake/libs/configure.php, line 1145]
+2012-02-07 20:44:12 Warning: Warning (2): require(cake/libs/model/model.php) [http://php.net/function.require]: failed to open stream: No such file or directory in [/Users/sadmin/Dropbox/Sites/archive/festival/cake/libs/configure.php, line 1145]
+2012-02-07 20:44:43 Warning: Warning (2): require(cake/libs/model/model.php) [http://php.net/function.require]: failed to open stream: No such file or directory in [/Users/sadmin/Dropbox/Sites/archive/festival/cake/libs/configure.php, line 1145]
+2012-02-07 20:53:50 Error: Fatal Error (256): ConnectionManager::loadDataSource - Unable to import DataSource class .DboMysql in [/Users/sadmin/Dropbox/Sites/archive/festival/cake/libs/model/connection_manager.php, line 185]
